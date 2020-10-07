@@ -1,0 +1,23 @@
+[Package]
+version: 1
+depends: 
+
+[Product]
+type: localboot
+id: teska-defender-fix
+name: teska-defender-fix
+description: defender-fix update
+advice: 
+version: 1.0
+priority: 0
+licenseRequired: False
+productClasses: 
+setupScript: 
+uninstallScript: 
+updateScript: 
+alwaysScript: 
+onceScript: once.opsiscript
+customScript: 
+userLoginScript: 
+
+[Changelog]
